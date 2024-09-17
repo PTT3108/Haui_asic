@@ -10,8 +10,9 @@
 ## 1. Tạo kho lưu trữ mới
 
 Tạo kho lưu trữ mới theo link sau: [Tạo kho lưu trữ mới](https://github.com/efabless/caravel_user_project/generate)
+![image](https://github.com/user-attachments/assets/36a479a3-0a2f-443e-9709-d0146d15ae7e)
 
-## 2. Clone và thiết lập
+## 2. Tải dự án và thiết lập
 
 ```bash
 git clone https://github.com/PTT3108/Haui_asic.git 
