@@ -1,0 +1,12 @@
+{
+    "DESIGN_NAME": "haui_asic", 
+    "DESIGN_IS_CORE": 0,
+    "VERILOG_FILES": [
+        "dir::../../verilog/rtl/defines.v",
+        "dir::../../verilog/rtl/haui_asic.v"
+    ],
+    "CLOCK_PERIOD": 25,
+    "CLOCK_PORT": "wb_clk_i",
+    "CLOCK_NET": "counter.clk",
+    "DIE_AREA": "0 0 2800 1760"
+}
