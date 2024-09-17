@@ -5,6 +5,15 @@
 | :exclamation: Important Note            |
 |-----------------------------------------|
 
-## Please fill in your project documentation in this README.md file 
+# Bắt đầu dự án
 
-Refer to [README](docs/source/index.md) for this sample project documentation.
+## 1. Tạo kho lưu trữ mới
+
+Tạo kho lưu trữ mới theo link sau: [Tạo kho lưu trữ mới](https://github.com/efabless/caravel_user_project/generate)
+
+## 2. Clone và thiết lập
+
+```bash
+git clone https://github.com/PTT3108/Haui_asic.git 
+cd ./Haui_asic 
+code .  # Mở chương trình chỉnh sửa
